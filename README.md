@@ -1,4 +1,4 @@
-## New: [Demonstrating Indirect Injection attacks on Bing Chat](https://greshake.github.io/)
+  ## New: [Demonstrating Indirect Injection attacks on Bing Chat](https://greshake.github.io/)
 -------------------------
 ## Compromising LLMs using Indirect Prompt Injection 
 > "... a language model is a Turing-complete weird machine running programs written in natural language; when you do retrieval, you are not 'plugging updated facts into your AI', you are actually downloading random new unsigned blobs of code from the Internet (many written by adversaries) and casually executing them on your LM with full privileges. This does not end well." - [Gwern Branwen on LessWrong](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=AAC8jKeDp6xqsZK2K)
